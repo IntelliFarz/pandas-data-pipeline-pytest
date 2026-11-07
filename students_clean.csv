@@ -1,0 +1,6 @@
+name,city,age,score,passed
+Ali,Karachi,21,80,True
+Sara,Karachi,22,92,True
+Omar,Karachi,20,76,True
+Hina,Lahore,20,72,True
+Bilal,Lahore,22,38,False
